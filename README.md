@@ -1,7 +1,5 @@
 # Generating illustrated lunch break stories
-When I teach my primary school class, I always read during the lunch break. 
-It's a great way to enjoy a story together, and it provides a bit of chillness in the middle of a hectic day.
-In my opinion, the best lunch break stories contain three ingredients.
+When I teach my primary school class, I always read during the lunch break. In my opinion, the best lunch break stories contain three ingredients.
 
 1. They're funny
 2. They're magical 
