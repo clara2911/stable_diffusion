@@ -6,3 +6,6 @@ _pychache_/
 __pycache__/
 .pytest_cache/
 .ipynb_checkpoints/
+
+# token file
+huggingface_token.txt
