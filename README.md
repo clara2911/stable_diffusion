@@ -7,10 +7,11 @@ In my opinion, the best lunch break stories contain three ingredients.
 2. They're magical 
 3. They contain beautiful pictures
 
-Sometimes it's hard to come up with these by yourself. So, :)
-the idea here is to generate a children's lunch break story based on a few words prompt.
-We can then use GPT2 to generate the rest of the story and a Stable Diffusion model to generate a fitting picture.
-Hopefully the magic and fun will follow. 
+Sometimes it's hard to find such an ideal story! So... :) can we generate them using text/image generation?
+This is a mini-project, playing around with Huggingface-hosted models.
+Based on a prompt, we use GPT2 to generate the rest of the story and a Stable Diffusion model to 
+generate an accompanying picture.
+Hopefully the magic and fun will then follow automatically....
 
 # How to run
 
